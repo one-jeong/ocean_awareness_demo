@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 32 32">
+  <!-- Sea Otter Cursor -->
+  <!-- Body -->
+  <ellipse cx="16" cy="18" rx="10" ry="8" fill="#8B6914"/>
+  <!-- Belly -->
+  <ellipse cx="16" cy="19" rx="7" ry="5" fill="#D4A574"/>
+  <!-- Head -->
+  <circle cx="16" cy="9" r="7" fill="#8B6914"/>
+  <!-- Face -->
+  <circle cx="16" cy="10" r="5" fill="#D4A574"/>
+  <!-- Ears -->
+  <circle cx="10" cy="5" r="2" fill="#8B6914"/>
+  <circle cx="22" cy="5" r="2" fill="#8B6914"/>
+  <!-- Eyes -->
+  <circle cx="13" cy="8" r="1.5" fill="#1a1a1a"/>
+  <circle cx="19" cy="8" r="1.5" fill="#1a1a1a"/>
+  <circle cx="13.5" cy="7.5" r="0.5" fill="#fff"/>
+  <circle cx="19.5" cy="7.5" r="0.5" fill="#fff"/>
+  <!-- Nose -->
+  <ellipse cx="16" cy="11" rx="2" ry="1.2" fill="#1a1a1a"/>
+  <!-- Whiskers -->
+  <line x1="10" y1="11" x2="6" y2="10" stroke="#4a3000" stroke-width="0.5"/>
+  <line x1="10" y1="12" x2="6" y2="12" stroke="#4a3000" stroke-width="0.5"/>
+  <line x1="10" y1="13" x2="6" y2="14" stroke="#4a3000" stroke-width="0.5"/>
+  <line x1="22" y1="11" x2="26" y2="10" stroke="#4a3000" stroke-width="0.5"/>
+  <line x1="22" y1="12" x2="26" y2="12" stroke="#4a3000" stroke-width="0.5"/>
+  <line x1="22" y1="13" x2="26" y2="14" stroke="#4a3000" stroke-width="0.5"/>
+  <!-- Paws -->
+  <ellipse cx="9" cy="24" rx="3" ry="2" fill="#8B6914"/>
+  <ellipse cx="23" cy="24" rx="3" ry="2" fill="#8B6914"/>
+</svg>
